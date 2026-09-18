@@ -1,6 +1,6 @@
 # TribalSuite-Sample
 
-# tribal-transaltions
+## sample data
 
 This is the top-level working directory for **TribalSuite MT rebuttal + sample release**. It contains the full training codebase, raw tribal language data, consolidated experiment results, and the public sample repo ready for GitHub.
 
