@@ -8,13 +8,13 @@ This is the top-level working directory for **TribalSuite MT rebuttal + sample r
 
 ```
     TribalSuite-Sample/          
-    ├── raw_data/
+    ├── Dataset_raw_data/
     │   ├── Bhili_sample_50.csv / _500.csv
     │   ├── Gondi_sample_50.csv / _500.csv
     │   ├── Mundari_sample_50.csv / _500.csv
     │   ├── Santali_sample_50.csv / _500.csv
     │   └── README.md
-    └── benchmarks/
+    └── task_benchmarks_dataset/
         ├── NLI/
         │   ├── D1_nli_labeled_entailment_sample_50.csv
         │   ├── D1_nli_labeled_contradiction_sample_50.csv
