@@ -2,7 +2,7 @@
 
 ## sample data
 
-This is the top-level working directory for **TribalSuite MT rebuttal + sample release**. It contains the full training codebase, raw tribal language data, consolidated experiment results, and the public sample repo ready for GitHub.
+This is the top-level working directory for **TribalSuite MT rebuttal + sample release**. It contains the sample raw tribal language data and benchmarks
 
 ## Directory Layout
 
